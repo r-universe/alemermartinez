@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "rmargint"]
 	path = rmargint
-	url = https://github.com/cran/rmargint
+	url = https://github.com/alemermartinez/rmargint
